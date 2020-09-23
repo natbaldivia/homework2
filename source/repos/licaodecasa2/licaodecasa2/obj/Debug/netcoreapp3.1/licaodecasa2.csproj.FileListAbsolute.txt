@@ -1,0 +1,13 @@
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\bin\Debug\netcoreapp3.1\licaodecasa2.exe
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\bin\Debug\netcoreapp3.1\licaodecasa2.deps.json
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\bin\Debug\netcoreapp3.1\licaodecasa2.runtimeconfig.json
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\bin\Debug\netcoreapp3.1\licaodecasa2.runtimeconfig.dev.json
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\bin\Debug\netcoreapp3.1\licaodecasa2.dll
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\bin\Debug\netcoreapp3.1\licaodecasa2.pdb
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.csprojAssemblyReference.cache
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.csproj.CoreCompileInputs.cache
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.AssemblyInfoInputs.cache
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.AssemblyInfo.cs
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.dll
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.pdb
+C:\Users\natba\source\repos\licaodecasa2\licaodecasa2\obj\Debug\netcoreapp3.1\licaodecasa2.genruntimeconfig.cache
